@@ -1,3 +1,5 @@
+## Jingwen Zhang
+
 Bachelor of Mathematic and Applied Mathematics, Faculty of Arts and Sciences, Beijing Normal University.
 
 #### Contact Info 
@@ -5,9 +7,6 @@ Bachelor of Mathematic and Applied Mathematics, Faculty of Arts and Sciences, Be
 - Email: jingwenzhang@mail.bnu.edu.cn
 
 ### Academics
-
-### Academics 学术
-
 
 #### Research Interests
 
@@ -41,98 +40,98 @@ Other related works：Basic code refinement: writing ladder subdiagram plotting 
 
 __Undergraduate Innovation and Entrepreneurship Training Programme__
 
-1. Research on mining typhoon disaster-causing elements based on social media big data  _省级项目_ _参与_ _待结项_
+1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Pending closure_
   
-   - 研究方向：数据挖掘，文本情感分析，NLP，Transformer
-   - 主要工作：数据清洗与去重，学习使用高德地图API获取各省份、地市的经纬度，并将地理位置和台风信息与博文数据进行匹配；搭建语义词典与文本情感模型，设计并改进文本情感值计算方法使之更适用于微博博文数据；进行固定时间与固定地点实验以检验情感值在反映台风致灾要素方面的特征与有效性。
+   - Reserach directions: Data mining, text sentiment analysis, NLP, Transformer
+   - Main contribution: Conduct data cleaning and de-duplication, learning to use Amap API to obtain the latitude and longitude of provinces and cities, and match the geographic location and typhoon information with the blog post data. Construct a semantic dictionary and a text sentiment model, design and improve the method of calculating the text sentiment scores so that it is more suitable for posts on Sina Weibo platform. Carry out fixed-time and fixed-location experiments to test the characteristics and validity of the sentiment value in reflecting the elements of typhoon disaster.
+     
+2. Development of C Language Intelligent Teaching Assistant Based on Domestic Large Language Model  _Undergraduate Innovation Training Program_ _Pending startup_
+   - Research directions: LLM, prompt-engineering, fine-tuning
+   - Main contribution: (to be filled)
 
-2. 基于国产大语言模型的C语言智能助教开发 _大创项目_ _参与_ _立项中_
-   - 研究方向：LLM，prompt-engineering，fine-tuning
-   - 主要工作：（未开始）
+__Peer Study Projects and Seminars__
 
-__朋辈研学与研讨班__
+1. Participant of Peer Study Project: Competition Training for CUMCM
+   - Content: Learn to use Matlab and get familiar with typical mathematical models.
+   - Output: The group completed the modelling paper _Credit Decision Making for MSMEs_.
 
-1. 书院朋辈研学项目：全国大学生数学建模竞赛训练（组员）
-   - 主要工作：学习使用matlab，熟悉常见基础模型等。
-   - 成果：小组完成建模论文《中小微企业的信贷决策》
-
-2. 书院朋辈研学项目：全国大学生英语竞赛训练（组长）
-   - 主要工作：制定学习计划并协调授课内容，开展单词打卡。研讨活动与英语角口语练习等。
-   - 成果：参加全国大学生英语竞赛，全组8人中3人获奖。
+2. Leader of Peer Study Project: Competition Training for NECCS
+   - Content: Developing study plans and coordinating the content of the lessons, conducting word punch cards. Seminar activities and oral practice in the English corner, etc.
+   - Achievements: 3 out of 8 members of the whole group won prizes in 2023 NECCS.
   
-3. 解析几何研讨课
-   - 选题一：三维欧氏空间中的二次曲面完全不变量系统
+3. Seminar on Analytic Geometry
+   - Selected Topic I: Completely Invariant Systems of Quadratic Surfaces in Three-Dimensional Euclidean Spaces
 
-     主要内容：验证三维欧氏空间中的二次曲面与其系数矩阵的关系，并针对系数行列式值的不同情形对二次曲面进行分类。主要负责汇报二次曲面分类部分的内容。
-   - 选题二：七巧板多边形几何完全不变量系统
+     Main content: Verify the relationship between quadratic surfaces in 3D Euclidean space and their coefficient matrices, and classify quadratic surfaces for different cases of coefficient determinant values. Responsibile for reporting the quadratic surface classification section.
+   - Selected Topic II: Completely Invariant Systems for Tangram Polygon Geometry
   
-     主要内容：研读老师的工作，学习在七巧板拼块特征中抽象出基本图形并通过引入新的辅助对象来解决问题的思想。在老师指导下理解完整的推导过程并对其中的计算机实验进行复现。主要负责七巧板问题完全约束条件的推导及计算检验的部分讲解。
+     Main content: Study of the teacher's work to learn the idea of abstracting basic shapes in jigsaw puzzle block features and solving problems by introducing new auxiliary objects. Understand the complete derivation process and reproduce the computer experiments involved under the guidance of the teacher. Responsible for the derivation of the complete constraints of the jigsaw puzzle problem and the partial explanation of the computational tests.
 
 
-__建模竞赛__
+__Modeling Competition Experiences__
 
-1. 2023年北京市数学建模校际联赛
-   - 主题：酒店管理 时间序列预测
-   - 主要工作：作为主编程手，通过日期编号实现酒店数据的预处理，使用ARMA模型与多元logistic回归预测酒店入住数量等。
+1. 2023 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities
+   - Topic: Hospitality Management, Time Series Forecasting
+   - Main contribution: as the main programmer, implement the preprocessing of hotel data by date numbering, use ARMA model with multivariate logistic regression to predict the number of hotel occupancy and so on.
 
-2. 2023年高教社杯全国大学生数学建模竞赛 _省二等奖_
-   - 主题：多波束测线设计 空间解析几何
-   - 主要工作：在备赛阶段小组学习《数学建模算法与应用》一书，掌握基本模型与建模思路。在模拟赛中完成一道大数据题，使用机器学习模型（梯度提升树与XGBoost）探究各类运动场地新增数量对当地教育和健康水平的影响。在正式比赛中，作为主建模手，完成问题的几何抽象并建立二维到三维测线覆盖宽度计算模型，后将测线方案抽象为整数规划模型以便于方案评估。完成相应部分的论文撰写。
+2. 2023 CUMCM _Provincal Second Prize_
+   - Topic: Multibeam Line Design, Spatial Analytic Geometry
+   - Main contribution: Study the book _Algorithms and Applications of Mathematical Modelling_ with group members during the preparation phase to master the basic models and modelling ideas. Completed a big data problem in the simulation competition, using machine learning models (Gradient Boosting Tree and XGBoost) to explore the impact of the number of new sports fields on local education and health levels. In the formal competition, as the main modeller, complete the geometric abstraction of the problem and model the 2D to 3D alignment coverage width calculation, and then abstract the alignment scheme to an integer planning model for scheme evaluation. Completed the corresponding part of the thesis.
 
-3. 2024年美国大学生数学建模竞赛
-   - 主题：生态系统分析 差分方程与微分方程
-   - 主要工作：在备赛阶段，阅读往年优秀论文并学习latex排版。在模拟赛中辅助数据收集并完成论文的主体部分。在正式比赛中，进行海量文献调研，并参与部分计算推导工作，协助建模手确定基本模型。作为主论文手负责大部分论文插图的美术设计与制作，并完成论文主体部分的撰写与排版。
+3. 2024 MCM/ICM
+   - Topic: Ecosystem Analysis, Differential Equations
+   - Main contribution: in the preparation stage, read excellent papers from previous years and learn to use Latex. In the simulation competition, assist in data collection and complete the main part of the paper. In the official competition, conducted massive literature research and participated in part of the computational derivation work, and assisted the modeller in determining the basic model. As the main thesis writer, I was responsible for the art design and production of most of the thesis illustrations, as well as the writing and layout of the main part of the thesis.
 
-4. 2024年北京市数学建模校际联赛
-   - 主题：三维装箱问题 算法设计
-   - 主要工作：作为队长，统筹安排团队管理，完成主体模型的搭建与代码撰写。通过回溯算法实现了三维装箱问题解的搜索，代码已上传至github。同时也完成了论文的主体部分，并进行了部分数据处理工作。
+4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities
+   - Topic: 3D Boxing Problem, Algorithm Design
+   - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D crate problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
 
-其他：曾完整参与iGEM校队建模组的培训，学习了基本蛋白建模与化学反应速率模型，了解一些常用的生物组件。
+Other: had complete participation in the iGEM Varsity Modelling Group training, learned basic protein modelling and chemical reaction rate modelling, and understood some common biological components.
 
-#### 学科竞赛
+#### Academic Competitions
 
-数学：CMC省一
+Mathematics: provincal first prize in CMC (rank 33)
 
-英语：外研社国才杯二等、NECCS二等
+English: second prize at school level of FLTRP Cup, second prize of NECCS
 
-程序设计：蓝桥杯python组省二
+Programming: provincal second prize of Lanqiao Cup Software Competition
 
-#### 语言技能
+#### Skills
 
-语言&软件：Python, Latex, Markdown, C, Matlab, Tableau, 亿图, ChimeraX.
+Languages & Softwares：Python, Latex, Markdown, C, Matlab, Tableau, edraw, ChimeraX.
 
-外语标化：六级639
+Standarized English Scores: CET-6 639
 
 ***
 ### Other Aspects about Me
 
 #### Mathematics Study
 
-从小学开始的数竞选手，高中也参加过物竞，喜欢思维碰撞。
+Maths campaigner since primary school, also competed in Physical Competition in high school and enjoys the clash of minds.
 
-因为参加竞赛从小习惯了节假日上课&工作，养成了能坐冷板凳的习惯。
+Because participating in competitions from a young age, I got used to attending classes & working on holidays, and developed the habit of being able to stick on a goal.
 
-上大学之后一直比较喜欢逻辑推理，热衷于挖掘定义定理的本质含义，并且能够将这种能力迁移到实际问题的解决上。
+I have always preferred logical reasoning since I went to university, and I am keen on digging into the essential meaning of definitional theorems, and I am able to transfer this ability to real-world problem solving.
 
 #### Social Works
 
-1. 县大学生志愿服务总队 _优秀大学生志愿者_
-   - 参与“选大学问学长学姐”高考生志愿填报帮扶工作、文体竞赛场务志愿工作等。
+1. County Student Volunteer Corps _Outstanding Student Volunteer_
+   - Help high school students with their university application, and volunteer for cultural and sports competitions.
 
-3. 市人才发展促进会 _校园引才大使_
-   - 参与政企走访与座谈、招商引才政策学习等。
+3. Municipal Talent Development Promotion Association _Campus Talent Ambassadors_
+   - Participate in government-enterprise visits and seminars, and learn about policies for attracting investment and talent.
 
 #### Leisure Hobbies
 
-古典音乐发烧友，喜欢剧场/剧院相关（话剧、音乐剧等）。
+Classical music enthusiast who enjoys theatre related forms of art (plays, musicals, etc.).
 
-因为入坑梅溪湖曾经学了一阵子法语和意语，喜欢接触不同的文化。
+Used to study French and Italian for a while because I was attracted by operas and musicals, and I like to be exposed to different cultures.
 
-话剧团前团员，偶尔玩玩表演&配音等
+Former member of a theatre troupe, occasional acting & dubbing, etc.
 
-球类运动也喜欢，特别喜欢各种排列组合，比如用乒乓球拍打羽毛球。
+Ball sports are also enjoyed, especially various permutations and combinations, such as playing badminton with a ping-pong paddle.
 
-历史也喜欢看看，一个自封的“王学门人”，非常崇尚陆王心学推崇的行事准则。
+Enjoys in reading Chinese history stories and believe in subjective idealism. 
 
 #### Anything Else?
 
