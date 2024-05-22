@@ -82,7 +82,7 @@ __Modeling Competition Experiences__
    - Topic: Ecosystem Analysis, Differential Equations
    - Main contribution: in the preparation stage, read excellent papers from previous years and learn to use Latex. In the simulation competition, assist in data collection and complete the main part of the paper. In the official competition, conducted massive literature research and participated in part of the computational derivation work, and assisted the modeller in determining the basic model. As the main thesis writer, I was responsible for the art design and production of most of the thesis illustrations, as well as the writing and layout of the main part of the thesis.
 
-4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities
+4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities _First Prize_
    - Topic: 3D Boxing Problem, Algorithm Design
    - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D crate problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
 
