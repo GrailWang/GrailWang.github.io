@@ -40,7 +40,7 @@ Other related works：Basic code refinement: writing ladder subdiagram plotting 
 
 __Undergraduate Innovation and Entrepreneurship Training Programme__
 
-1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Pending closure_
+1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Ended_
   
    - Reserach directions: Data mining, text sentiment analysis, NLP, Transformer
    - Main contribution: Conduct data cleaning and de-duplication, learning to use Amap API to obtain the latitude and longitude of provinces and cities, and match the geographic location and typhoon information with the blog post data. Construct a semantic dictionary and a text sentiment model, design and improve the method of calculating the text sentiment scores so that it is more suitable for posts on Sina Weibo platform. Carry out fixed-time and fixed-location experiments to test the characteristics and validity of the sentiment value in reflecting the elements of typhoon disaster.
