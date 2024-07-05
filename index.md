@@ -14,7 +14,7 @@ Mathematic modeling, system and complexity analysis, data science, etc.
 
 #### Publications
 
-（Not yet）
+(One accepted, to be updated)
 
 #### Research Experiences
 
@@ -32,7 +32,8 @@ _Supervisor: Yu Liu_
      - The defined molecular similarity is the applied to calculate the molecular similarity of chemical molecules in certain datasets and compared with the results of traditional calculation methods.
   2. Mathematical properties of ladderpath and analysis of statistical patterns of ladderons 
      - Observe the distribution pattern of ladderons in ladderpaths with eta values around 0.5. (We conjecture that this type of ladderpaths are the ‘most complex’.) It is found that the length distribution of the ladderons indeed shows an approximate power law distribution, and sometimes the weight distribution can also be seen to approximate a power law distribution.
-  3. (Ongoing projects)
+  3. Research on the relationship between ladderpath complexity of an artificial neural network and its performance
+     - Compare the effetiveness of ladderpath complexity in referring to the nerual network's hierarchical structure and its accuracy, to some traditional measurement such as degree distribution entropy and modularity.
   
 Other related works：Basic code refinement: writing ladder subdiagram plotting programmes; classical literature reading, etc.
 
@@ -165,7 +166,7 @@ Willing to make concessions for team efficiency and also able to learn new thing
 
 #### 已发表论文
 
-（暂无）
+（有一篇已被接受，待更新）
 
 #### 科研经历
 
