@@ -46,7 +46,7 @@ __Undergraduate Innovation and Entrepreneurship Training Programme__
    - Reserach directions: Data mining, text sentiment analysis, NLP, Transformer
    - Main contribution: Conduct data cleaning and de-duplication, learning to use Amap API to obtain the latitude and longitude of provinces and cities, and match the geographic location and typhoon information with the blog post data. Construct a semantic dictionary and a text sentiment model, design and improve the method of calculating the text sentiment scores so that it is more suitable for posts on Sina Weibo platform. Carry out fixed-time and fixed-location experiments to test the characteristics and validity of the sentiment value in reflecting the elements of typhoon disaster.
      
-2. Development of C Language Intelligent Teaching Assistant Based on Domestic Large Language Model  _Undergraduate Innovation Training Program_ _Pending startup_
+2. Development of C Programming Course Intelligent Teaching Assistant Based on Domestic Large Language Model  _Undergraduate Innovation Training Program_ _Pending startup_
    - Research directions: LLM, prompt-engineering, fine-tuning
    - Main contribution: (to be filled)
 
