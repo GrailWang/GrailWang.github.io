@@ -14,13 +14,13 @@ Mathematic modeling, system and complexity analysis, data science, etc.
 
 #### Publications
 
-(One accepted, to be updated)
+()
 
 #### Research Experiences
 
 __Undergraduate Research Assistant at International Academic Center of Complex Systems, Beijing Normal University__ _Present_
 
-_Supervisor: Yu Liu_
+_Supervisor: Prof. Yu Liu_
 
 - Research directions: Ladderpath theory, system analysis
 
@@ -35,18 +35,23 @@ _Supervisor: Yu Liu_
   3. Research on the relationship between ladderpath complexity of an artificial neural network and its performance
      - Compare the effetiveness of ladderpath complexity in referring to the nerual network's hierarchical structure and its accuracy, to some traditional measurement such as degree distribution entropy and modularity.
   
-Other related works：Basic code refinement: writing ladder subdiagram plotting programmes; classical literature reading, etc.
+Other related works：Basic code refinement: writing laddergraph subgraph plotting programmes; literature reading, etc.
 
 #### Project Experiences
 
 __Undergraduate Innovation and Entrepreneurship Training Programme__
 
 1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Ended_
-  
+
+   _Supervisor: Prof. Weiping Wang_
+   
    - Reserach directions: Data mining, text sentiment analysis, NLP, Transformer
    - Main contribution: Conduct data cleaning and de-duplication, learning to use Amap API to obtain the latitude and longitude of provinces and cities, and match the geographic location and typhoon information with the blog post data. Construct a semantic dictionary and a text sentiment model, design and improve the method of calculating the text sentiment scores so that it is more suitable for posts on Sina Weibo platform. Carry out fixed-time and fixed-location experiments to test the characteristics and validity of the sentiment value in reflecting the elements of typhoon disaster.
      
-2. Development of C Programming Course Intelligent Teaching Assistant Based on Domestic Large Language Model  _Undergraduate Innovation Training Program_ _Pending startup_
+1. Development of C Programming Course Intelligent Teaching Assistant Based on Domestic Large Language Model  _Undergraduate Innovation Training Program_ _Current_
+
+   _Supervisor: Prof. Bo Sun_
+   
    - Research directions: LLM, prompt-engineering, fine-tuning
    - Main contribution: (to be filled)
 
@@ -61,12 +66,15 @@ __Peer Study Projects and Seminars__
    - Achievements: 3 out of 8 members of the whole group won prizes in 2023 NECCS.
   
 3. Seminar on Analytic Geometry
+  
+   _Supervisor: Prof. Youning Wang_
+   
    - Selected Topic I: Completely Invariant Systems of Quadratic Surfaces in Three-Dimensional Euclidean Spaces
 
      Main content: Verify the relationship between quadratic surfaces in 3D Euclidean space and their coefficient matrices, and classify quadratic surfaces for different cases of coefficient determinant values. Responsibile for reporting the quadratic surface classification section.
    - Selected Topic II: Completely Invariant Systems for Tangram Polygon Geometry
   
-     Main content: Study of the teacher's work to learn the idea of abstracting basic shapes in jigsaw puzzle block features and solving problems by introducing new auxiliary objects. Understand the complete derivation process and reproduce the computer experiments involved under the guidance of the teacher. Responsible for the derivation of the complete constraints of the jigsaw puzzle problem and the partial explanation of the computational tests.
+     Main content: Read and understand supervisor's work to learn the idea of abstracting basic shapes in jigsaw puzzle block features and solving problems by introducing new auxiliary objects. Understand the complete derivation process and reproduce the computer experiments involved under the guidance of the teacher. Responsible for the derivation of the complete constraints of the jigsaw puzzle problem and the partial explanation of the computational tests.
 
 
 __Modeling Competition Experiences__
@@ -80,14 +88,14 @@ __Modeling Competition Experiences__
    - Main contribution: Study the book _Algorithms and Applications of Mathematical Modelling_ with group members during the preparation phase to master the basic models and modelling ideas. Completed a big data problem in the simulation competition, using machine learning models (Gradient Boosting Tree and XGBoost) to explore the impact of the number of new sports fields on local education and health levels. In the formal competition, as the main modeller, complete the geometric abstraction of the problem and model the 2D to 3D alignment coverage width calculation, and then abstract the alignment scheme to an integer planning model for scheme evaluation. Completed the corresponding part of the thesis.
 
 3. 2024 MCM/ICM
-   - Topic: Ecosystem Analysis, Differential Equations
+   - Topic: Ecosystem Modeling, Differential Equations
    - Main contribution: in the preparation stage, read excellent papers from previous years and learn to use Latex. In the simulation competition, assist in data collection and complete the main part of the paper. In the official competition, conducted massive literature research and participated in part of the computational derivation work, and assisted the modeller in determining the basic model. As the main thesis writer, I was responsible for the art design and production of most of the thesis illustrations, as well as the writing and layout of the main part of the thesis.
 
 4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities _First Prize_
-   - Topic: 3D Boxing Problem, Algorithm Design
-   - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D crate problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
+   - Topic: 3D Packaging Problem, Algorithm Design
+   - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D packaging problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
 
-Other: had complete participation in the iGEM Varsity Modelling Group training, learned basic protein modelling and chemical reaction rate modelling, and understood some common biological components.
+Other: have completed the training of BNUZH-China iGEM team, learned basic protein and chemical reaction rate modelling, and understood some common biological components.
 
 #### Academic Competitions
 
@@ -99,7 +107,7 @@ Programming: provincal second prize of Lanqiao Cup Software Competition
 
 #### Skills
 
-Languages & Softwares：Python, Latex, Markdown, C, Matlab, Tableau, edraw, ChimeraX.
+Languages & Softwares：Python, Latex, Markdown, C, Matlab, Tableau, edraw.
 
 Standarized English Scores: CET-6 639
 
@@ -116,19 +124,19 @@ I have always preferred logical reasoning since I went to university, and I am k
 
 #### Social Works
 
-1. County Student Volunteer Corps _Outstanding Student Volunteer_
+1. County Student Volunteer Corps _Outstanding Student Volunteer (2 times)_
    - Help high school students with their university application, and volunteer for cultural and sports competitions.
 
-3. Municipal Talent Development Promotion Association _Campus Talent Ambassadors_
-   - Participate in government-enterprise visits and seminars, and learn about policies for attracting investment and talent.
-
+2. Municipal Talent Development Promotion Association _Top 10 Campus Talent Ambassador_
+   - Participate in government-enterprise visits and seminars. Learn about policies for attracting investment and talent.
+     
 #### Leisure Hobbies
 
 Classical music enthusiast who enjoys theatre related forms of art (plays, musicals, etc.).
 
 Used to study French and Italian for a while because I was attracted by operas and musicals, and I like to be exposed to different cultures.
 
-Former member of a theatre troupe, occasional acting & dubbing, etc.
+Former member of campus theatre troupe, occasional acting & dubbing, etc.
 
 Ball sports are also enjoyed, especially various permutations and combinations, such as playing badminton with a ping-pong paddle.
 
@@ -166,7 +174,7 @@ Willing to make concessions for team efficiency and also able to learn new thing
 
 #### 已发表论文
 
-（有一篇已被接受，待更新）
+（）
 
 #### 科研经历
 
@@ -191,11 +199,16 @@ __北京师范大学复杂系统国际科学中心刘宇课题组本科生科研
 __本科生创新创业训练项目__
 
 1. 基于社交媒体大数据的台风致灾要素挖掘研究  _省级项目_ _参与_ _待结项_
+
+   _指导老师：汪伟平_
   
    - 研究方向：数据挖掘，文本情感分析，NLP，Transformer
    - 主要工作：数据清洗与去重，学习使用高德地图API获取各省份、地市的经纬度，并将地理位置和台风信息与博文数据进行匹配；搭建语义词典与文本情感模型，设计并改进文本情感值计算方法使之更适用于微博博文数据；进行固定时间与固定地点实验以检验情感值在反映台风致灾要素方面的特征与有效性。
 
-2. 基于国产大语言模型的C语言智能助教开发 _大创项目_ _参与_ _立项中_
+3. 基于国产大语言模型的C语言智能助教开发 _大创项目_ _参与_ _立项中_
+
+   _指导老师：孙波_
+   
    - 研究方向：LLM，prompt-engineering，fine-tuning
    - 主要工作：（未开始）
 
@@ -206,10 +219,13 @@ __朋辈研学与研讨班__
    - 成果：小组完成建模论文《中小微企业的信贷决策》
 
 2. 书院朋辈研学项目：全国大学生英语竞赛训练（组长）
-   - 主要工作：制定学习计划并协调授课内容，开展单词打卡。研讨活动与英语角口语练习等。
+   - 主要工作：制定学习计划并协调授课内容，开展单词打卡、研讨活动与英语角口语练习等。
    - 成果：参加全国大学生英语竞赛，全组8人中3人获奖。
   
 3. 解析几何研讨课
+
+   _指导老师：王幼宁_
+
    - 选题一：三维欧氏空间中的二次曲面完全不变量系统
 
      主要内容：验证三维欧氏空间中的二次曲面与其系数矩阵的关系，并针对系数行列式值的不同情形对二次曲面进行分类。主要负责汇报二次曲面分类部分的内容。
