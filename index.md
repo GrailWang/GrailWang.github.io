@@ -180,7 +180,7 @@ Willing to make concessions for team efficiency and also able to learn new thing
 
 __北京师范大学复杂系统国际科学中心刘宇课题组本科生科研助理__ _在研_
 
-- 研究方向：梯径理论，系统分析
+- 研究方向：梯径理论，系统分析 https://www.wuyichen.org/
 
 - 参与课题：
   
