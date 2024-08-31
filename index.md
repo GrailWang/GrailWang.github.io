@@ -20,7 +20,7 @@ Mathematic modeling, system and complexity analysis, data science, etc.
 
 __Undergraduate Research Assistant at International Academic Center of Complex Systems, Beijing Normal University__ _Present_
 
-_Supervisor: Prof. Yu Liu_
+_Supervisor: Prof. Yu Liu_  https://www.wuyichen.org/
 
 - Research directions: Ladderpath theory, system analysis
 
