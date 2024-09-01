@@ -128,15 +128,15 @@ __Peer Study Projects and Seminars 朋辈研学与研讨班__
 
 
 
-1. 书院朋辈研学项目：全国大学生数学建模竞赛训练（组员）
+a. 书院朋辈研学项目：全国大学生数学建模竞赛训练（组员）
    - 主要工作：学习使用matlab，熟悉常见基础模型等。
    - 成果：小组完成建模论文《中小微企业的信贷决策》
 
-2. 书院朋辈研学项目：全国大学生英语竞赛训练（组长）
+b. 书院朋辈研学项目：全国大学生英语竞赛训练（组长）
    - 主要工作：制定学习计划并协调授课内容，开展单词打卡、研讨活动与英语角口语练习等。
    - 成果：参加全国大学生英语竞赛，全组8人中3人获奖。
   
-3. 解析几何研讨课
+c. 解析几何研讨课
 
    _指导老师：王幼宁_
 
@@ -165,32 +165,19 @@ __Modeling Competition Experiences 建模竞赛__
    - Topic: 3D Packaging Problem, Algorithm Design
    - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D packaging problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. 2023年北京市数学建模校际联赛
+a. 2023年北京市数学建模校际联赛
    - 主题：酒店管理 时间序列预测
    - 主要工作：作为主编程手，通过日期编号实现酒店数据的预处理，使用ARMA模型与多元logistic回归预测酒店入住数量等。
 
-2. 2023年高教社杯全国大学生数学建模竞赛 _省二等奖_
+b. 2023年高教社杯全国大学生数学建模竞赛 _省二等奖_
    - 主题：多波束测线设计 空间解析几何
    - 主要工作：在备赛阶段小组学习《数学建模算法与应用》一书，掌握基本模型与建模思路。在模拟赛中完成一道大数据题，使用机器学习模型（梯度提升树与XGBoost）探究各类运动场地新增数量对当地教育和健康水平的影响。在正式比赛中，作为主建模手，完成问题的几何抽象并建立二维到三维测线覆盖宽度计算模型，后将测线方案抽象为整数规划模型以便于方案评估。完成相应部分的论文撰写。
 
-3. 2024年美国大学生数学建模竞赛
+c. 2024年美国大学生数学建模竞赛
    - 主题：生态系统分析 差分方程与微分方程
    - 主要工作：在备赛阶段，阅读往年优秀论文并学习latex排版。在模拟赛中辅助数据收集并完成论文的主体部分。在正式比赛中，进行海量文献调研，并参与部分计算推导工作，协助建模手确定基本模型。作为主论文手负责大部分论文插图的美术设计与制作，并完成论文主体部分的撰写与排版。
 
-4. 2024年北京市数学建模校际联赛 _一等奖_
+d. 2024年北京市数学建模校际联赛 _一等奖_
    - 主题：三维装箱问题 算法设计
    - 主要工作：作为队长，统筹安排团队管理，完成主体模型的搭建与代码撰写。通过回溯算法实现了三维装箱问题解的搜索，代码已上传至github。同时也完成了论文的主体部分，并进行了部分数据处理工作。
 
@@ -249,28 +236,15 @@ __Social Works 社会工作__
 2. Municipal Talent Development Promotion Association _Top 10 Campus Talent Ambassador_
    - Participate in government-enterprise visits and seminars. Learn about policies for attracting investment and talent.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   
-1. 某县大学生志愿服务总队 _优秀大学生志愿者_
+a. 某县大学生志愿服务总队 _优秀大学生志愿者_
    - 参与“选大学问学长学姐”高考生志愿填报帮扶工作、文体竞赛场务志愿工作等。
 
-2. 某市人才发展促进会 _十佳校园引才大使_ _连任_
+b. 某市人才发展促进会 _十佳校园引才大使_ _连任_
    - 参与政企走访与座谈、招商引才政策学习等。
    - 进行城市文化和人才政策、文化活动等的推介宣传。
   
-3. 某市基金会领航计划 _首届青年领航员_
+c. 某市基金会领航计划 _首届青年领航员_
    - (进行中)
 
 __Practical research 实践调研__
