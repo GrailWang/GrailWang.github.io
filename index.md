@@ -18,6 +18,8 @@ Bachelor of Mathematic and Applied Mathematics, Faculty of Arts and Sciences, Be
 
 Mathematic modeling, system and complexity analysis, data science, etc.
 
+数学建模，复杂系统分析，数据科学等
+
 #### Publications | 论文发表
 
 (暂无)
@@ -43,20 +45,21 @@ __北京师范大学复杂系统国际科学中心刘宇课题组本科生科研
      - Explore the method of calculating similarity through SMILES fingerprinting using ladderpath degrees, suggesting possible improvements through study of different examples.
      - The defined molecular similarity is the applied to calculate the molecular similarity of chemical molecules in certain datasets and compared with the results of traditional calculation methods.
     
-1. 基于梯径定义的化学分子相似度计算方法
+    基于梯径定义的化学分子相似度计算方法
   - 学习传统的基于分子指纹定义的Tanimoto相似度与Dice相似度等，并且掌握rdkit包的基本用法（包括获取分子指纹、计算相似度与绘制分子地图等）。
   - 探究通过SMILES指纹利用梯径度计算相似度的方法，通过实例研究提出可能需要改进的地方
   - 将定义好的分子相似度应用后计算某些数据集当中的化学分子相似度并与传统计算方式的结果进行比较。
     
-  2. Mathematical properties of ladderpath and analysis of statistical patterns of ladderons 
+  2. Mathematical properties of ladderpath and analysis of statistical patterns of ladderons
      - Observe the distribution pattern of ladderons in ladderpaths with eta values around 0.5. (We conjecture that this type of ladderpaths are the ‘most complex’.) It is found that the length distribution of the ladderons indeed shows an approximate power law distribution, and sometimes the weight distribution can also be seen to approximate a power law distribution.
     
-2. 梯径数学性质与梯元统计规律分析
+    梯径数学性质与梯元统计规律分析
   - 观察eta值在0.5附近的梯径中梯元的分布规律。（我们猜想这个值附近的梯径是“最复杂”的。）发现梯元的长度分布确实呈现了近似的幂律分布，有时也能看到重数分布近似于幂律分布。
     
   3. Research on the relationship between ladderpath complexity of an artificial neural network and its performance
      - Compare the effetiveness of ladderpath complexity in referring to the nerual network's hierarchical structure and its accuracy, to some traditional measurement such as degree distribution entropy and modularity.
-3. （正在做的项目，待结束后更新）
+     
+    （正在做的项目，待结束后更新）
    
 Other related works：Basic code refinement: writing laddergraph subgraph plotting programmes; literature reading, etc.
 
@@ -66,23 +69,31 @@ Other related works：Basic code refinement: writing laddergraph subgraph plotti
 
 __Undergraduate Innovation and Entrepreneurship Training Programme 大学生创新创业训练项目__ 
 
-1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Ended_
+1. Research on mining typhoon disaster-causing elements based on social media big data 基于社交媒体大数据的台风致灾要素挖掘研究
+  
+   _Provincial Project 广东省“攀登计划”专项资金立项_ `   ` _Ended 已结项_
 
-   _Supervisor: Prof. Weiping Wang_
+   _Supervisor: Prof. Weiping Wang_ `   ` _指导老师：汪伟平_
    
    - Reserach directions: Data mining, text sentiment analysis, NLP, Transformer
+   - 研究方向：数据挖掘，文本情感分析，自然语言处理，Transformer神经网络
    - Main contribution: Conduct data cleaning and de-duplication, learning to use Amap API to obtain the latitude and longitude of provinces and cities, and match the geographic location and typhoon information with the blog post data. Construct a semantic dictionary and a text sentiment model, design and improve the method of calculating the text sentiment scores so that it is more suitable for posts on Sina Weibo platform. Carry out fixed-time and fixed-location experiments to test the characteristics and validity of the sentiment value in reflecting the elements of typhoon disaster.
+   - 主要工作：数据清洗与去重，学习使用高德地图API获取各省份、地市的经纬度，并将地理位置和台风信息与博文数据进行匹配；搭建语义词典与文本情感模型，设计并改进文本情感值计算方法使之更适用于微博博文数据；进行固定时间与固定地点实验以检验情感值在反映台风致灾要素方面的特征与有效性。
      
-1. Development of C Programming Course Intelligent Teaching Assistant Based on Domestic Large Language Model  _Undergraduate Innovation Training Program_ _Current_
+1. Development of C Programming Course Intelligent Teaching Assistant Based on Domestic Large Language Model
+  
+   _National program 获国家级立项_ `   ` _Current 进行中_
 
-   _Supervisor: Prof. Bo Sun_
+   _Supervisor: Prof. Bo Sun_ `   ` _指导老师：孙波_
    
    - Research directions: LLM, prompt-engineering, fine-tuning
+   - 研究方向：大语言模型，提示技术，微调技术
    - Main contribution: (to be filled)
+   - 主要工作：参与模型调研与基本功能设计；搭建模型知识库，整理课程基础知识与模拟试题等等；
 
-__Peer Study Projects and Seminars__
+__Peer Study Projects and Seminars 朋辈研学与研讨班__
 
-1. Participant of Peer Study Project: Competition Training for CUMCM
+1. Participant of Peer Study Project: Competition Training for CUMCM 
    - Content: Learn to use Matlab and get familiar with typical mathematical models.
    - Output: The group completed the modelling paper _Credit Decision Making for MSMEs_.
 
