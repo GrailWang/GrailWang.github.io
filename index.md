@@ -38,28 +38,29 @@ __北京师范大学复杂系统国际科学中心刘宇课题组本科生科研
 
 - 研究方向：梯径理论，系统分析
 
-- Project participated 参与课题：
+- Project participated：
   
   1. Chemical molecular similarity calculation method based on ladderpath theory
      - Learn the traditional molecular fingerprint-based definitions of molecular similarity such as Tanimoto, Dice, etc., and master the basic usage of the rdkit package (including obtaining molecular fingerprints, calculating similarity and drawing molecular maps, etc.).
      - Explore the method of calculating similarity through SMILES fingerprinting using ladderpath degrees, suggesting possible improvements through study of different examples.
      - The defined molecular similarity is the applied to calculate the molecular similarity of chemical molecules in certain datasets and compared with the results of traditional calculation methods.
     
-    基于梯径定义的化学分子相似度计算方法
-    - 学习传统的基于分子指纹定义的Tanimoto相似度与Dice相似度等，并且掌握rdkit包的基本用法（包括获取分子指纹、计算相似度与绘制分子地图等）。
-    - 探究通过SMILES指纹利用梯径度计算相似度的方法，通过实例研究提出可能需要改进的地方
-    - 将定义好的分子相似度应用后计算某些数据集当中的化学分子相似度并与传统计算方式的结果进行比较。
-    
   2. Mathematical properties of ladderpath and analysis of statistical patterns of ladderons
      - Observe the distribution pattern of ladderons in ladderpaths with eta values around 0.5. (We conjecture that this type of ladderpaths are the ‘most complex’.) It is found that the length distribution of the ladderons indeed shows an approximate power law distribution, and sometimes the weight distribution can also be seen to approximate a power law distribution.
     
-    梯径数学性质与梯元统计规律分析
-    - 观察eta值在0.5附近的梯径中梯元的分布规律。（我们猜想这个值附近的梯径是“最复杂”的。）发现梯元的长度分布确实呈现了近似的幂律分布，有时也能看到重数分布近似于幂律分布。
-    
   3. Research on the relationship between ladderpath complexity of an artificial neural network and its performance
      - Compare the effetiveness of ladderpath complexity in referring to the nerual network's hierarchical structure and its accuracy, to some traditional measurement such as degree distribution entropy and modularity.
-     
-      （正在做的项目，待结束后更新）
+
+
+- 参与课题：
+  
+  1. 基于梯径定义的化学分子相似度计算方法
+     - 学习传统的基于分子指纹定义的Tanimoto相似度与Dice相似度等，并且掌握rdkit包的基本用法（包括获取分子指纹、计算相似度与绘制分子地图等）。
+     - 探究通过SMILES指纹利用梯径度计算相似度的方法，通过实例研究提出可能需要改进的地方
+     - 将定义好的分子相似度应用后计算某些数据集当中的化学分子相似度并与传统计算方式的结果进行比较。
+  2. 梯径数学性质与梯元统计规律分析
+     - 观察eta值在0.5附近的梯径中梯元的分布规律。（我们猜想这个值附近的梯径是“最复杂”的。）发现梯元的长度分布确实呈现了近似的幂律分布，有时也能看到重数分布近似于幂律分布。
+  3. （正在做的项目，待结束后更新）
    
 Other related works：Basic code refinement: writing laddergraph subgraph plotting programmes; literature reading, etc.
 
@@ -113,143 +114,6 @@ __Peer Study Projects and Seminars 朋辈研学与研讨班__
      Main content: Read and understand supervisor's work to learn the idea of abstracting basic shapes in jigsaw puzzle block features and solving problems by introducing new auxiliary objects. Understand the complete derivation process and reproduce the computer experiments involved under the guidance of the teacher. Responsible for the derivation of the complete constraints of the jigsaw puzzle problem and the partial explanation of the computational tests.
 
 
-__Modeling Competition Experiences__
-
-1. 2023 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities
-   - Topic: Hospitality Management, Time Series Forecasting
-   - Main contribution: as the main programmer, implement the preprocessing of hotel data by date numbering, use ARMA model with multivariate logistic regression to predict the number of hotel occupancy and so on.
-
-2. 2023 CUMCM _Provincal Second Prize_
-   - Topic: Multibeam Line Design, Spatial Analytic Geometry
-   - Main contribution: Study the book _Algorithms and Applications of Mathematical Modelling_ with group members during the preparation phase to master the basic models and modelling ideas. Completed a big data problem in the simulation competition, using machine learning models (Gradient Boosting Tree and XGBoost) to explore the impact of the number of new sports fields on local education and health levels. In the formal competition, as the main modeller, complete the geometric abstraction of the problem and model the 2D to 3D alignment coverage width calculation, and then abstract the alignment scheme to an integer planning model for scheme evaluation. Completed the corresponding part of the thesis.
-
-3. 2024 MCM/ICM
-   - Topic: Ecosystem Modeling, Differential Equations
-   - Main contribution: in the preparation stage, read excellent papers from previous years and learn to use Latex. In the simulation competition, assist in data collection and complete the main part of the paper. In the official competition, conducted massive literature research and participated in part of the computational derivation work, and assisted the modeller in determining the basic model. As the main thesis writer, I was responsible for the art design and production of most of the thesis illustrations, as well as the writing and layout of the main part of the thesis.
-
-4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities _First Prize_
-   - Topic: 3D Packaging Problem, Algorithm Design
-   - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D packaging problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
-
-Other: have completed the training of BNUZH-China iGEM team, learned basic protein and chemical reaction rate modelling, and understood some common biological components.
-
-#### Academic Competitions
-
-Mathematics: provincal first prize in CMC (rank 33)
-
-English: second prize at school level of FLTRP Cup, second prize of NECCS
-
-Programming: provincal second prize of Lanqiao Cup Software Competition
-
-#### Skills
-
-Languages & Softwares：Python, Latex, Markdown, C, Matlab, Tableau, edraw.
-
-Standarized English Scores: CET-6 639
-
-***
-### Other Aspects about Me
-
-#### Mathematics Study
-
-Maths campaigner since primary school, also competed in Physical Competition in high school and enjoys the clash of minds.
-
-Because participating in competitions from a young age, I got used to attending classes & working on holidays, and developed the habit of being able to stick on a goal.
-
-I have always preferred logical reasoning since I went to university, and I am keen on digging into the essential meaning of definitional theorems, and I am able to transfer this ability to real-world problem solving.
-
-#### Social Works
-
-1. County Student Volunteer Corps _Outstanding Student Volunteer (2 times)_
-   - Help high school students with their university application, and volunteer for cultural and sports competitions.
-
-2. Municipal Talent Development Promotion Association _Top 10 Campus Talent Ambassador_
-   - Participate in government-enterprise visits and seminars. Learn about policies for attracting investment and talent.
-     
-#### Leisure Hobbies
-
-Classical music enthusiast who enjoys theatre related forms of art (plays, musicals, etc.).
-
-Used to study French and Italian for a while because I was attracted by operas and musicals, and I like to be exposed to different cultures.
-
-Former member of campus theatre troupe, occasional acting & dubbing, etc.
-
-Ball sports are also enjoyed, especially various permutations and combinations, such as playing badminton with a ping-pong paddle.
-
-Enjoys in reading Chinese history stories and believe in subjective idealism. 
-
-#### Anything Else?
-
-Usually be described as looking like a serious science student on the appearance, but actually the most humourous and funny one.
-
-Own the ability to act as an atmosphere team in a stressful environment.
-
-Willing to make concessions for team efficiency and also able to learn new things quickly.
-
-***
-***
-## 张竞文
-
-北京师范大学 文理学院 数学与应用数学专业2022级本科生
-
-——菜菜的很安心。
-
-
-#### 联系方式
-
-- 电子邮箱: jingwenzhang@mail.bnu.edu.cn
-
-***
-
-### 学术
-
-
-#### 研究兴趣
-
-数学建模，复杂系统分析，数据科学等
-
-#### 已发表论文
-
-（）
-
-#### 科研经历
-
-__北京师范大学复杂系统国际科学中心刘宇课题组本科生科研助理__ _在研_
-
-- 研究方向：梯径理论，系统分析 https://www.wuyichen.org/
-
-- 参与课题：
-  
-  1. 基于梯径定义的化学分子相似度计算方法
-     - 学习传统的基于分子指纹定义的Tanimoto相似度与Dice相似度等，并且掌握rdkit包的基本用法（包括获取分子指纹、计算相似度与绘制分子地图等）。
-     - 探究通过SMILES指纹利用梯径度计算相似度的方法，通过实例研究提出可能需要改进的地方
-     - 将定义好的分子相似度应用后计算某些数据集当中的化学分子相似度并与传统计算方式的结果进行比较。
-  2. 梯径数学性质与梯元统计规律分析
-     - 观察eta值在0.5附近的梯径中梯元的分布规律。（我们猜想这个值附近的梯径是“最复杂”的。）发现梯元的长度分布确实呈现了近似的幂律分布，有时也能看到重数分布近似于幂律分布。
-  3. （正在做的项目，待结束后更新）
-  
-其他：基础代码的完善：编写梯图子图绘制程序；经典文献阅读等。
-
-#### 项目经历
-
-__本科生创新创业训练项目__
-
-1. 基于社交媒体大数据的台风致灾要素挖掘研究  _省级项目_ _参与_ _待结项_
-
-   _指导老师：汪伟平_
-  
-   - 研究方向：数据挖掘，文本情感分析，NLP，Transformer
-   - 主要工作：数据清洗与去重，学习使用高德地图API获取各省份、地市的经纬度，并将地理位置和台风信息与博文数据进行匹配；搭建语义词典与文本情感模型，设计并改进文本情感值计算方法使之更适用于微博博文数据；进行固定时间与固定地点实验以检验情感值在反映台风致灾要素方面的特征与有效性。
-
-3. 基于国产大语言模型的C语言智能助教开发 _大创项目_ _参与_ _立项中_
-
-   _指导老师：孙波_
-   
-   - 研究方向：LLM，prompt-engineering，fine-tuning
-   - 主要工作：（未开始）
-
-__朋辈研学与研讨班__
-
 1. 书院朋辈研学项目：全国大学生数学建模竞赛训练（组员）
    - 主要工作：学习使用matlab，熟悉常见基础模型等。
    - 成果：小组完成建模论文《中小微企业的信贷决策》
@@ -269,8 +133,24 @@ __朋辈研学与研讨班__
   
      主要内容：研读老师的工作，学习在七巧板拼块特征中抽象出基本图形并通过引入新的辅助对象来解决问题的思想。在老师指导下理解完整的推导过程并对其中的计算机实验进行复现。主要负责七巧板问题完全约束条件的推导及计算检验的部分讲解。
 
+__Modeling Competition Experiences 建模竞赛__
 
-__建模竞赛__
+1. 2023 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities
+   - Topic: Hospitality Management, Time Series Forecasting
+   - Main contribution: as the main programmer, implement the preprocessing of hotel data by date numbering, use ARMA model with multivariate logistic regression to predict the number of hotel occupancy and so on.
+
+2. 2023 CUMCM _Provincal Second Prize_
+   - Topic: Multibeam Line Design, Spatial Analytic Geometry
+   - Main contribution: Study the book _Algorithms and Applications of Mathematical Modelling_ with group members during the preparation phase to master the basic models and modelling ideas. Completed a big data problem in the simulation competition, using machine learning models (Gradient Boosting Tree and XGBoost) to explore the impact of the number of new sports fields on local education and health levels. In the formal competition, as the main modeller, complete the geometric abstraction of the problem and model the 2D to 3D alignment coverage width calculation, and then abstract the alignment scheme to an integer planning model for scheme evaluation. Completed the corresponding part of the thesis.
+
+3. 2024 MCM/ICM
+   - Topic: Ecosystem Modeling, Differential Equations
+   - Main contribution: in the preparation stage, read excellent papers from previous years and learn to use Latex. In the simulation competition, assist in data collection and complete the main part of the paper. In the official competition, conducted massive literature research and participated in part of the computational derivation work, and assisted the modeller in determining the basic model. As the main thesis writer, I was responsible for the art design and production of most of the thesis illustrations, as well as the writing and layout of the main part of the thesis.
+
+4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities _First Prize_
+   - Topic: 3D Packaging Problem, Algorithm Design
+   - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D packaging problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
+
 
 1. 2023年北京市数学建模校际联赛
    - 主题：酒店管理 时间序列预测
@@ -288,9 +168,17 @@ __建模竞赛__
    - 主题：三维装箱问题 算法设计
    - 主要工作：作为队长，统筹安排团队管理，完成主体模型的搭建与代码撰写。通过回溯算法实现了三维装箱问题解的搜索，代码已上传至github。同时也完成了论文的主体部分，并进行了部分数据处理工作。
 
+Other: have completed the training of BNUZH-China iGEM team, learned basic protein and chemical reaction rate modelling, and understood some common biological components.
+
 其他：曾完整参与iGEM校队建模组的培训，学习了基本蛋白建模与化学反应速率模型，了解一些常用的生物组件。
 
-#### 学科竞赛
+#### Academic Competitions | 学术竞赛
+
+Mathematics: provincal first prize in CMC (rank 33)
+
+English: second prize at school level of FLTRP Cup, second prize of NECCS
+
+Programming: provincal second prize of Lanqiao Cup Software Competition
 
 数学：CMC省一
 
@@ -298,16 +186,26 @@ __建模竞赛__
 
 程序设计：蓝桥杯python组省二
 
-#### 语言技能
+#### Skills | 语言技能
+
+Languages & Softwares：Python, Latex, Markdown, C, Matlab, Tableau, edraw.
+
+Standarized English Scores: CET-6 639
 
 语言&软件：Python, Latex, Markdown, C, Matlab, Tableau, 亿图, ChimeraX.
 
 外语标化：六级639
 
 ***
-### 唠唠其他
+### Other Aspects about Me | 唠唠其他
 
-#### 数学学习
+#### Mathematics Study | 数学学习
+
+Maths campaigner since primary school, also competed in Physical Competition in high school and enjoys the clash of minds.
+
+Because participating in competitions from a young age, I got used to attending classes & working on holidays, and developed the habit of being able to stick on a goal.
+
+I have always preferred logical reasoning since I went to university, and I am keen on digging into the essential meaning of definitional theorems, and I am able to transfer this ability to real-world problem solving.
 
 从小学开始的数竞选手，高中也参加过物竞，喜欢思维碰撞。
 
@@ -315,10 +213,17 @@ __建模竞赛__
 
 上大学之后一直比较喜欢逻辑推理，热衷于挖掘定义定理的本质含义，并且能够将这种能力迁移到实际问题的解决上。
 
-#### 社会实践与工作
+#### Social Practice | 社会实践
 
-__实践工作__
+__Social Works 社会工作__
 
+1. County Student Volunteer Corps _Outstanding Student Volunteer (2 times)_
+   - Help high school students with their university application, and volunteer for cultural and sports competitions.
+
+2. Municipal Talent Development Promotion Association _Top 10 Campus Talent Ambassador_
+   - Participate in government-enterprise visits and seminars. Learn about policies for attracting investment and talent.
+
+  
 1. 某县大学生志愿服务总队 _优秀大学生志愿者_
    - 参与“选大学问学长学姐”高考生志愿填报帮扶工作、文体竞赛场务志愿工作等。
 
@@ -328,12 +233,22 @@ __实践工作__
   
 3. 某市基金会领航计划 _首届青年领航员_
    - (进行中)
-  
-__调研项目__
+
+__Practical research 实践调研__
 
 
+   
+#### Leisure Hobbies | 兴趣爱好
 
-#### 兴趣爱好
+Classical music enthusiast who enjoys theatre related forms of art (plays, musicals, etc.).
+
+Used to study French and Italian for a while because I was attracted by operas and musicals, and I like to be exposed to different cultures.
+
+Former member of campus theatre troupe, occasional acting & dubbing, etc.
+
+Ball sports are also enjoyed, especially various permutations and combinations, such as playing badminton with a ping-pong paddle.
+
+Enjoys in reading Chinese history stories and believe in subjective idealism. 
 
 古典音乐发烧友，喜欢剧场/剧院相关（话剧、音乐剧等）。
 
@@ -345,7 +260,13 @@ __调研项目__
 
 历史也喜欢看看，一个自封的“王学门人”，非常崇尚陆王心学推崇的行事准则。
 
-#### 边角料
+#### Anything Else | 边角料
+
+Usually be described as looking like a serious science student on the appearance, but actually the most humourous and funny one.
+
+Own the ability to act as an atmosphere team in a stressful environment.
+
+Willing to make concessions for team efficiency and also able to learn new things quickly.
 
 曾经被人评价是外表看起来像是正经理工科学生，实际上一开口就全场爆笑。
 
