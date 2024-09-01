@@ -8,7 +8,7 @@ Bachelor of Mathematic and Applied Mathematics, Faculty of Arts and Sciences, Be
 
 #### Contact Info | 联系方式
 
-- Email | 电子邮箱: [jingwenzhang@mail.bnu.edu.cn](jingwenzhang@mail.bnu.edu.cn)
+- Email 电子邮箱: [jingwenzhang@mail.bnu.edu.cn](jingwenzhang@mail.bnu.edu.cn)
 
 ***
 
@@ -30,13 +30,13 @@ _Supervisor: Prof. Yu Liu_
 
 __北京师范大学复杂系统国际科学中心刘宇课题组本科生科研助理__ _在研_
 
-[Lab Homepage | 实验室主页](https://www.wuyichen.org/)
+[Lab Homepage 实验室主页](https://www.wuyichen.org/)
 
 - Research directions: Ladderpath theory, system analysis
 
 - 研究方向：梯径理论，系统分析
 
-- Project participated | 参与课题：
+- Project participated 参与课题：
   
   1. Chemical molecular similarity calculation method based on ladderpath theory
      - Learn the traditional molecular fingerprint-based definitions of molecular similarity such as Tanimoto, Dice, etc., and master the basic usage of the rdkit package (including obtaining molecular fingerprints, calculating similarity and drawing molecular maps, etc.).
@@ -64,7 +64,7 @@ Other related works：Basic code refinement: writing laddergraph subgraph plotti
 
 #### Project Experiences | 项目经历
 
-__Undergraduate Innovation and Entrepreneurship Training Programme | 大学生创新创业训练项目__ 
+__Undergraduate Innovation and Entrepreneurship Training Programme 大学生创新创业训练项目__ 
 
 1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Ended_
 
