@@ -1,45 +1,70 @@
-## Jingwen Zhang
+## Jingwen Zhang | 张竞文
 
 Bachelor of Mathematic and Applied Mathematics, Faculty of Arts and Sciences, Beijing Normal University.
 
-#### Contact Info 
+北京师范大学 文理学院 数学与应用数学专业2022级本科生
 
-- Email: jingwenzhang@mail.bnu.edu.cn
+——菜菜的很安心。
 
-### Academics
+#### Contact Info | 联系方式
 
-#### Research Interests
+- Email | 电子邮箱: [jingwenzhang@mail.bnu.edu.cn](jingwenzhang@mail.bnu.edu.cn)
+
+***
+
+### Academics | 学术
+
+#### Research Interests | 研究兴趣
 
 Mathematic modeling, system and complexity analysis, data science, etc.
 
-#### Publications
+#### Publications | 论文发表
 
-()
+(暂无)
 
-#### Research Experiences
+#### Research Experiences | 科研经历
 
 __Undergraduate Research Assistant at International Academic Center of Complex Systems, Beijing Normal University__ _Present_
 
-_Supervisor: Prof. Yu Liu_  https://www.wuyichen.org/
+_Supervisor: Prof. Yu Liu_  
+
+__北京师范大学复杂系统国际科学中心刘宇课题组本科生科研助理__ _在研_
+
+[Lab Homepage | 实验室主页](https://www.wuyichen.org/)
 
 - Research directions: Ladderpath theory, system analysis
 
-- Project participated：
+- 研究方向：梯径理论，系统分析
+
+- Project participated | 参与课题：
   
   1. Chemical molecular similarity calculation method based on ladderpath theory
      - Learn the traditional molecular fingerprint-based definitions of molecular similarity such as Tanimoto, Dice, etc., and master the basic usage of the rdkit package (including obtaining molecular fingerprints, calculating similarity and drawing molecular maps, etc.).
      - Explore the method of calculating similarity through SMILES fingerprinting using ladderpath degrees, suggesting possible improvements through study of different examples.
      - The defined molecular similarity is the applied to calculate the molecular similarity of chemical molecules in certain datasets and compared with the results of traditional calculation methods.
+    
+1. 基于梯径定义的化学分子相似度计算方法
+  - 学习传统的基于分子指纹定义的Tanimoto相似度与Dice相似度等，并且掌握rdkit包的基本用法（包括获取分子指纹、计算相似度与绘制分子地图等）。
+  - 探究通过SMILES指纹利用梯径度计算相似度的方法，通过实例研究提出可能需要改进的地方
+  - 将定义好的分子相似度应用后计算某些数据集当中的化学分子相似度并与传统计算方式的结果进行比较。
+    
   2. Mathematical properties of ladderpath and analysis of statistical patterns of ladderons 
      - Observe the distribution pattern of ladderons in ladderpaths with eta values around 0.5. (We conjecture that this type of ladderpaths are the ‘most complex’.) It is found that the length distribution of the ladderons indeed shows an approximate power law distribution, and sometimes the weight distribution can also be seen to approximate a power law distribution.
+    
+2. 梯径数学性质与梯元统计规律分析
+  - 观察eta值在0.5附近的梯径中梯元的分布规律。（我们猜想这个值附近的梯径是“最复杂”的。）发现梯元的长度分布确实呈现了近似的幂律分布，有时也能看到重数分布近似于幂律分布。
+    
   3. Research on the relationship between ladderpath complexity of an artificial neural network and its performance
      - Compare the effetiveness of ladderpath complexity in referring to the nerual network's hierarchical structure and its accuracy, to some traditional measurement such as degree distribution entropy and modularity.
-  
+3. （正在做的项目，待结束后更新）
+   
 Other related works：Basic code refinement: writing laddergraph subgraph plotting programmes; literature reading, etc.
 
-#### Project Experiences
+其他：基础代码的完善：编写梯图子图绘制程序；经典文献阅读等。
 
-__Undergraduate Innovation and Entrepreneurship Training Programme__
+#### Project Experiences | 项目经历
+
+__Undergraduate Innovation and Entrepreneurship Training Programme | 大学生创新创业训练项目__ 
 
 1. Research on mining typhoon disaster-causing elements based on social media big data  _Provincial Project_  _Ended_
 
