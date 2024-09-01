@@ -114,6 +114,20 @@ __Peer Study Projects and Seminars 朋辈研学与研讨班__
      Main content: Read and understand supervisor's work to learn the idea of abstracting basic shapes in jigsaw puzzle block features and solving problems by introducing new auxiliary objects. Understand the complete derivation process and reproduce the computer experiments involved under the guidance of the teacher. Responsible for the derivation of the complete constraints of the jigsaw puzzle problem and the partial explanation of the computational tests.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. 书院朋辈研学项目：全国大学生数学建模竞赛训练（组员）
    - 主要工作：学习使用matlab，熟悉常见基础模型等。
    - 成果：小组完成建模论文《中小微企业的信贷决策》
@@ -150,6 +164,18 @@ __Modeling Competition Experiences 建模竞赛__
 4. 2024 Intercollegiate Mathematical Modelling League of Beijing Colleges and Universities _First Prize_
    - Topic: 3D Packaging Problem, Algorithm Design
    - Main contribution: as the captain, co-ordinate the team management, complete the construction of the main model and code writing. Implemented the search of 3D packaging problem solution by backtracking algorithm, and the code has been uploaded to github. also completed the main part of the paper, and carried out part of the data processing work.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 1. 2023年北京市数学建模校际联赛
@@ -222,6 +248,19 @@ __Social Works 社会工作__
 
 2. Municipal Talent Development Promotion Association _Top 10 Campus Talent Ambassador_
    - Participate in government-enterprise visits and seminars. Learn about policies for attracting investment and talent.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 1. 某县大学生志愿服务总队 _优秀大学生志愿者_
