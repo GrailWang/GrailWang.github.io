@@ -113,7 +113,24 @@ __Peer Study Projects and Seminars 朋辈研学与研讨班__
   
      Main content: Read and understand supervisor's work to learn the idea of abstracting basic shapes in jigsaw puzzle block features and solving problems by introducing new auxiliary objects. Understand the complete derivation process and reproduce the computer experiments involved under the guidance of the teacher. Responsible for the derivation of the complete constraints of the jigsaw puzzle problem and the partial explanation of the computational tests.
 
+<ol start="1">
+  <li>书院朋辈研学项目：全国大学生数学建模竞赛训练（组员）
+   - 主要工作：学习使用matlab，熟悉常见基础模型等。
+   - 成果：小组完成建模论文《中小微企业的信贷决策》</li>
+  <li>书院朋辈研学项目：全国大学生英语竞赛训练（组长）
+   - 主要工作：制定学习计划并协调授课内容，开展单词打卡、研讨活动与英语角口语练习等。
+   - 成果：参加全国大学生英语竞赛，全组8人中3人获奖。</li>
+  <li> 解析几何研讨课
 
+   _指导老师：王幼宁_
+
+   - 选题一：三维欧氏空间中的二次曲面完全不变量系统
+
+     主要内容：验证三维欧氏空间中的二次曲面与其系数矩阵的关系，并针对系数行列式值的不同情形对二次曲面进行分类。主要负责汇报二次曲面分类部分的内容。
+   - 选题二：七巧板多边形几何完全不变量系统
+  
+     主要内容：研读老师的工作，学习在七巧板拼块特征中抽象出基本图形并通过引入新的辅助对象来解决问题的思想。在老师指导下理解完整的推导过程并对其中的计算机实验进行复现。主要负责七巧板问题完全约束条件的推导及计算检验的部分讲解。</li>
+</ol>
 
 
 
