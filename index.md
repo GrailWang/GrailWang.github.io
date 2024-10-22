@@ -22,7 +22,7 @@ Mathematic modeling, system and complexity analysis, data science, etc.
 
 #### Publications | 论文发表
 
-(暂无)
+Xu, Z., Zhu, Y., Hong, B. et al. Correlating measures of hierarchical structures in artificial neural networks with their performance. npj Complex 1, 15 (2024). https://doi.org/10.1038/s44260-024-00015-x
 
 #### Research Experiences | 科研经历
 
@@ -192,7 +192,7 @@ Programming: provincal second prize of Lanqiao Cup Software Competition
 
 数学：CMC省一
 
-英语：外研社国才杯二等、NECCS二等
+英语：外研社国才杯阅读二等&写作二等&综合一等、NECCS二等
 
 程序设计：蓝桥杯python组省二
 
