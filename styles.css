@@ -1,0 +1,74 @@
+/* 基础样式 */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* 导航栏样式 */
+nav {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background: #555;
+}
+
+nav ul li.active a {
+    background: #4CAF50;
+}
+
+/* 主要内容区域 */
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* 页脚样式 */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* 项目页面特定样式 */
+.projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+.projects article {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
