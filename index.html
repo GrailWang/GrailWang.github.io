@@ -1,147 +1,71 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Clarence Taylor - Resume</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background-color: #2c3e50;
-      color: #fff;
-      padding: 30px 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2em;
-    }
-    header p {
-      margin: 5px 0;
-    }
-    nav {
-      background-color: #34495e;
-      text-align: center;
-      padding: 10px 0;
-    }
-    nav a {
-      color: #fff;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-      background-color: #fff;
-    }
-    section {
-      margin-bottom: 30px;
-    }
-    h2 {
-      color: #2c3e50;
-      border-bottom: 2px solid #ccc;
-      padding-bottom: 5px;
-    }
-    .job-title {
-      font-weight: bold;
-      font-size: 1.1em;
-    }
-    .company {
-      font-style: italic;
-      color: #555;
-    }
-    .date {
-      float: right;
-      color: #999;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #ecf0f1;
-      color: #777;
-      font-size: 0.9em;
-    }
-    @media (max-width: 600px) {
-      .date {
-        float: none;
-        display: block;
-        margin-top: 5px;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的学术主页 - 专业学习</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-  <header>
-    <h1>Clarence Taylor</h1>
-    <p>Cheyenne Wells, CO · (317) 585-8468 · name@email.com</p>
-    <p>Experienced in web development, UI/UX, and team collaboration</p>
-  </header>
-
-  <nav>
-    <a href="#experience">Experience</a>
-    <a href="#education">Education</a>
-    <a href="#skills">Skills</a>
-    <a href="#awards">Awards</a>
-  </nav>
-
-  <div class="container">
+    <header>
+        <h1>张三的学术档案</h1>
+        <p>计算机科学 | XX大学 | 2025届</p>
+    </header>
     
-    <section id="experience">
-      <h2>Experience</h2>
-      
-      <div>
-        <div class="job-title">Senior Web Developer <span class="date">2013 - Present</span></div>
-        <div class="company">Intelitec Solutions</div>
-        <p>Lead frontend development using modern JavaScript frameworks. Optimized performance and mentored junior developers.</p>
-      </div>
-      
-      <div>
-        <div class="job-title">Web Developer <span class="date">2011 - 2013</span></div>
-        <div class="company">Intelitec Solutions</div>
-        <p>Developed and maintained internal business applications. Participated in UX design and agile development.</p>
-      </div>
-    </section>
-
-    <section id="education">
-      <h2>Education</h2>
-      <p><strong>B.S. in Computer Science</strong>, University of Colorado, 2007 - 2011</p>
-    </section>
-
-    <section id="skills">
-      <h2>Skills</h2>
-      <ul>
-        <li>HTML5, CSS3, JavaScript (ES6+)</li>
-        <li>React, Vue, Node.js</li>
-        <li>Responsive Design, Git, REST APIs</li>
-      </ul>
-    </section>
-
-    <section id="awards">
-      <h2>Awards</h2>
-      <ul>
-        <li>Employee of the Year, Intelitec Solutions (2019)</li>
-        <li>Top Developer, Colorado Web Hackathon (2018)</li>
-      </ul>
-    </section>
-
-  </div>
-
-  <footer>
-    &copy; 2025 Clarence Taylor. All rights reserved.
-  </footer>
-
+    <nav>
+        <ul>
+            <li class="active"><a href="index.html">专业学习</a></li>
+            <li><a href="research.html">科研项目</a></li>
+            <li><a href="competitions.html">学科竞赛</a></li>
+            <li><a href="internship.html">实习实践</a></li>
+            <li><a href="blog.html">叨叨</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section class="academic-profile">
+            <h2>📚 专业学习</h2>
+            <article>
+                <h3>教育背景</h3>
+                <p><strong>XX大学</strong> - 计算机科学与技术 (2021-2025)</p>
+                <p>GPA: 3.8/4.0 | 专业排名: 前5%</p>
+            </article>
+            
+            <article>
+                <h3>核心课程</h3>
+                <div class="courses">
+                    <div class="course-category">
+                        <h4>计算机科学</h4>
+                        <ul>
+                            <li>数据结构与算法 (A+)</li>
+                            <li>操作系统 (A)</li>
+                            <li>计算机网络 (A)</li>
+                        </ul>
+                    </div>
+                    <div class="course-category">
+                        <h4>数学</h4>
+                        <ul>
+                            <li>高等数学 (A)</li>
+                            <li>线性代数 (A+)</li>
+                            <li>概率统计 (A)</li>
+                        </ul>
+                    </div>
+                </div>
+            </article>
+            
+            <article>
+                <h3>学术荣誉</h3>
+                <ul class="honors">
+                    <li>2023年 国家奖学金</li>
+                    <li>2022年 校级三好学生</li>
+                    <li>2021-2023 连续三年获得一等奖学金</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+    
+    <footer>
+        <p>📧 zhang.san@university.edu | © 2023 张三的学术档案</p>
+    </footer>
 </body>
 </html>
