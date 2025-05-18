@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的学术主页 - 科研项目</title>
+    <title>张竞文的个人主页</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>张三的学术档案</h1>
-        <p>计算机科学 | XX大学 | 2025届</p>
+        <h1>张竞文</h1>
+        <p>数学与应用数学 | 北京师范大学 | 2022级本科生</p>
     </header>
     
     <nav>
@@ -25,41 +25,62 @@
     <main>
         <section class="research-projects">
             <h2>🔬 科研项目</h2>
-            
             <article>
-                <h3>基于深度学习的图像识别优化</h3>
-                <p class="project-meta">2023.03-至今 | 导师: 李教授</p>
+                <h3>梯径理论及其应用研究【北京师范大学系统科学学院刘宇课题组】</h3>
+                <p class="project-meta">2023.09-至今 | 本科生科研助理</p>
                 <ul>
-                    <li>研究内容: 开发了一种新型卷积神经网络结构，在ImageNet数据集上准确率提升2.3%</li>
-                    <li>技术栈: Python, PyTorch, OpenCV</li>
-                    <li>成果: 正在准备论文投稿至CVPR会议</li>
+                    <li>研究方向: 梯径理论，算法信息论，复杂系统，信息压缩</li>
+                    <li>主要工作： 
+                        1. 基于梯径定义的化学分子相似度计算方法
+                         - 学习传统的基于分子指纹定义的Tanimoto相似度与Dice相似度等，并且掌握rdkit包的基本用法（包括获取分子指纹、计算相似度与绘制分子地图等）。
+                         - 探究通过SMILES指纹利用梯径度计算相似度的方法，通过实例研究提出可能需要改进的地方
+                         - 将定义好的分子相似度应用后计算某些数据集当中的化学分子相似度并与传统计算方式的结果进行比较。
+                        2. 梯径数学性质与梯元统计规律分析
+                         - 观察eta值在0.5附近的梯径中梯元的分布规律。（我们猜想这个值附近的梯径是“最复杂”的。）发现梯元的长度分布确实呈现了近似的幂律分布，有时也能看到重数分布近似于幂律分布。</li>
+                    <li>成果: Xu, Z., Zhu, Y., Hong, B. et al. Correlating measures of hierarchical structures in artificial neural networks with their performance. npj Complex 1, 15 (2024). https://doi.org/10.1038/s44260-024-00015-x</li>
                 </ul>
             </article>
             
             <article>
-                <h3>区块链在数据安全中的应用</h3>
-                <p class="project-meta">2022.06-2023.02 | 国家级大学生创新项目</p>
+                <h3>基于社交媒体大数据的台风致灾要素挖掘研究</h3>
+                <p class="project-meta">2023.06-2024.06 | 广东省“攀登计划”专项资金立项项目</p>
                 <ul>
-                    <li>研究内容: 设计并实现了一个基于区块链的医疗数据共享系统原型</li>
-                    <li>技术栈: Solidity, Ethereum, React</li>
-                    <li>成果: 项目获评优秀结题，申请发明专利1项</li>
+                    <li>研究方向: 数据挖掘，文本情感分析，自然语言处理，Transformer神经网络</li>
+                    <li>主要工作：数据清洗与去重，学习使用高德地图API获取各省份、地市的经纬度，并将地理位置和台风信息与博文数据进行匹配；搭建语义词典与文本情感模型，设计并改进文本情感值计算方法使之更适用于微博博文数据；进行固定时间与固定地点实验以检验情感值在反映台风致灾要素方面的特征与有效性。</li>
+                    <li>成果: 形成一篇论文，待投递</li>
                 </ul>
             </article>
             
             <article>
-                <h3>自然语言处理中的情感分析</h3>
-                <p class="project-meta">2021.09-2022.05 | 校级科研训练项目</p>
+                <h3>基于大语言模型的C语言课程智能助教</h3>
+                <p class="project-meta">2024.06-2025.06 | 省级大学生创新训练项目</p>
                 <ul>
-                    <li>研究内容: 构建了针对中文社交媒体文本的情感分析模型</li>
-                    <li>技术栈: Python, TensorFlow, BERT</li>
-                    <li>成果: 发表会议论文1篇(第二作者)</li>
+                    <li>研究方向: 大语言模型，提示技术，微调技术</li>
+                    <li>主要工作: 参与模型调研与基本功能设计；搭建模型知识库，整理课程基础知识与模拟试题等等；设计不同功能的Prompt。</li>
+                    <li>成果: 已开发出一个交互式用户界面，正在测试阶段。</li>
+                </ul>
+            </article>
+            
+            <article>
+                <h3>三维欧氏空间中的二次曲面完全不变量系统</h3>
+                <p class="project-meta">2023.04-2023.05 | 研讨课程项目</p>
+                <ul>
+                    <li>主要内容: 验证三维欧氏空间中的二次曲面与其系数矩阵的关系，并针对系数行列式值的不同情形对二次曲面进行分类。主要负责汇报二次曲面分类部分的内容。</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>七巧板多边形几何完全不变量系统</h3>
+                <p class="project-meta">2023.05-2023.06 | 研讨课程项目</p>
+                <ul>
+                    <li>主要内容: 研读老师的工作，学习在七巧板拼块特征中抽象出基本图形并通过引入新的辅助对象来解决问题的思想。在老师指导下理解完整的推导过程并对其中的计算机实验进行复现。主要负责七巧板问题完全约束条件的推导及计算检验的部分讲解。</li>
                 </ul>
             </article>
         </section>
     </main>
     
     <footer>
-        <p>📧 zhang.san@university.edu | © 2023 张三的学术档案</p>
+        <p> jingwenzhang@mail.bnu.edu.cn | 张竞文的个人主页</p>
     </footer>
 </body>
 </html>
