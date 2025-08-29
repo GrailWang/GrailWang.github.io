@@ -357,15 +357,62 @@ article:nth-child(3) { animation-delay: 0.3s; }
     }
 }
 
-/* 平台特定颜色（可选） */
+/* 更新社交媒体图标样式 */
+.social-icon {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--light), #fff);
+    margin: 0 auto 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 移除原来的平台特定颜色（因为我们要用背景色） */
+.social-card[href*="bilibili"] .social-icon,
+.social-card[href*="xiaohongshu"] .social-icon,
+.social-card[href*="zhihu"] .social-icon {
+    color: inherit; /* 重置颜色 */
+}
+
+/* 添加平台特定背景色 */
 .social-card[href*="bilibili"] .social-icon {
-    color: #00a1d6; /* B站蓝 */
+    background: linear-gradient(135deg, #00a1d6, #00a1d6);
 }
 
 .social-card[href*="xiaohongshu"] .social-icon {
-    color: #ff2741; /* 小红书红 */
+    background: linear-gradient(135deg, #ff2741, #ff2741);
 }
 
 .social-card[href*="zhihu"] .social-icon {
-    color: #0084ff; /* 知乎蓝 */
+    background: linear-gradient(135deg, #0084ff, #0084ff);
+}
+
+.social-card[href*="github"] .social-icon {
+    background: linear-gradient(135deg, #181717, #333);
+}
+
+/* 确保SVG图标在彩色背景上可见 */
+.social-icon svg {
+    filter: brightness(0) invert(1);
+}
+
+/* 调整社交媒体卡片内边距 */
+.social-card {
+    padding: 1.8rem; /* 调整为与其他卡片一致 */
+}
+
+/* 调整社交媒体标题大小 */
+.social-card h3 {
+    font-size: 1.2rem;
+    margin: 0.8rem 0 0.5rem;
+}
+
+/* 调整描述文字大小 */
+.social-card p {
+    font-size: 0.95rem;
+    margin: 0.5rem 0;
 }
