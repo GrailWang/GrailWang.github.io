@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingwen Zhang's Hompe"
+title                    : "Jingwen Zhang"
 description              : "恭喜发财"
 repository               : "GrailWang/GrailWang.github.io"
 google_scholar_stats_use_cdn : true
