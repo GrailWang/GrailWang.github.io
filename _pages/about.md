@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Mitacs internship AT Mcgill successfully finished!
-- *2025.11*: &nbsp;🎉🎉 Awarded Baosteel Excellent Student Honor!
+- *2025.11*: &nbsp;🎉🎉 Awarded Baosteel Excellent Student Honor (grade’s only recipient)!
 
 # 📝 Publications 
 <!--
