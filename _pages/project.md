@@ -2,10 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: false
 ---
 
 ## new file
