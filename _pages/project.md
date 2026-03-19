@@ -1,5 +1,4 @@
 ---
-layout: default
 title: ""
 excerpt: ""
 author_profile: True
