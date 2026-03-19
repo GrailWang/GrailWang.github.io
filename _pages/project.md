@@ -1,6 +1,11 @@
 ---
-layout: page
-title: 项目
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## new file
