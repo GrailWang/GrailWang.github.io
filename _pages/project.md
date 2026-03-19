@@ -2,7 +2,7 @@
 layout: default
 title: ""
 excerpt: ""
-author_profile: false
+author_profile: True
 permalink: /projects/
 ---
 
