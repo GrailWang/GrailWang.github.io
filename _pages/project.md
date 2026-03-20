@@ -1,5 +1,6 @@
 ---
-title: "This is test file"
+layout: minimal
+title: ""
 excerpt: ""
 author_profile: True
 permalink: /projects/
