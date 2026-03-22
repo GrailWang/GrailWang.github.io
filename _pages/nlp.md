@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Project details"
+title: "第一个大创"
 excerpt: ""
 author_profile: False
 permalink: /nlp/
