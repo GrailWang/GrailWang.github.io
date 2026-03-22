@@ -19,9 +19,9 @@ redirect_from:
 
 感谢访问。我叫张竞文，现在是北师大（珠海）文理学院数学系的一名大四学生，中科院数学院博0。现在还在科研起步阶段，主页记录成长内容比较多，请多多指教。
 
-本科期间尝试过比较多的东西，对于基础数学、统计学、计算机自然语言处理、大语言模型、信息论、系统生物学等都通过各种渠道有一点浅薄的了解。另外还对心理学挺感兴趣，但是处在一个体验阶段，主打一个自我调节XD
+本科期间尝试过比较多的东西，对于[基础数学](math.md)、统计学、[自然语言处理](nlp.md)、[大语言模型](llm.md)、[算法信息论](ait.md)、系统生物学等都通过各种渠道有一点浅薄的了解。另外还对心理学挺感兴趣，但是处在一个体验阶段，主打一个自我调节XD
 
-头像是光遇！平时喜欢找刁钻的角度拍拍光崽大头照。[链接](project.md)
+头像是光遇！平时喜欢找刁钻的角度拍拍光崽大头照。
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -51,6 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - Too many terms waiting to be filled.
+- [中文前瞻！](honors.md)
 
 <!--
   *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
