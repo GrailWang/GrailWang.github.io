@@ -3,6 +3,7 @@ layout: minimal
 title: "Project details"
 excerpt: ""
 author_profile: False
+permalink: /math/
 ---
 
 ## 基础数学板块
