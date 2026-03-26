@@ -23,9 +23,6 @@ main:
 
 # Project links links
 project:
-  - title: "Overview"
-    url: "/about/"
-
   - title: "Math"
     url: "/math/"
 
