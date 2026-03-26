@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: project
 title: "学艺不精"
 excerpt: ""
 author_profile: False
