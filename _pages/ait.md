@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: project
 title: "超长实验室挂机"
 excerpt: ""
 author_profile: False
