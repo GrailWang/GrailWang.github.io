@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Project details"
+title: "学艺不精"
 excerpt: ""
 author_profile: False
 permalink: /math/
