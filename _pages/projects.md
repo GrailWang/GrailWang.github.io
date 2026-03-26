@@ -1,4 +1,5 @@
 ---
+layout: project
 permalink: /project/
 title: ""
 excerpt: ""
