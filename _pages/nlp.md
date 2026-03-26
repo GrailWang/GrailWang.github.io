@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: project
 title: "第一个大创"
 excerpt: ""
 author_profile: False
