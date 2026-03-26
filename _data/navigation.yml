@@ -20,3 +20,21 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
+
+# Project links links
+project:
+  - title: "Overview"
+    url: "/about/"
+
+  - title: "Math"
+    url: "/math/"
+
+  - title: "NLP"
+    url: "/nlp/"
+
+  - title: "LLM"
+    url: "/llm/"
+
+  - title: "AIT"
+    url: "/ait/"
+
