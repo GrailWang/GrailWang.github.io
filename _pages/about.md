@@ -21,7 +21,7 @@ redirect_from:
 
 本科期间尝试过比较多的东西，对于[基础数学](/math)、统计学、[自然语言处理](/nlp)、[大语言模型](/llm)、[算法信息论](/ait)、系统生物学等都通过各种渠道有一点浅薄的了解。另外还对心理学挺感兴趣，但是处在一个体验阶段，主打一个自我调节XD
 
-头像是光遇！平时喜欢找刁钻的角度拍拍光崽大头照。
+头像是光遇！平时喜欢找刁钻的角度拍拍光崽大头照。[链接](/projects)
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
