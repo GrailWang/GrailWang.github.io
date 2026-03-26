@@ -24,14 +24,14 @@ main:
 # Project links links
 project:
   - title: "Math"
-    url: "/math/"
+    url: "/#-math/"
 
   - title: "NLP"
-    url: "/nlp/"
+    url: "/#-nlp/"
 
   - title: "LLM"
-    url: "/llm/"
+    url: "/#-llm/"
 
   - title: "AIT"
-    url: "/ait/"
+    url: "/#-ait/"
 
