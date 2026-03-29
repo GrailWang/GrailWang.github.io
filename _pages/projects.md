@@ -6,10 +6,10 @@ excerpt: ""
 author_profile: False
 ---
 
-# math
+# Math
 
-# nlp
+# NLP
 
-# llm
+# LLM
 
-# ait
+# AIT
