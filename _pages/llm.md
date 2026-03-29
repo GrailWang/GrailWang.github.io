@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: minimal
 title: "第二个大创"
 excerpt: ""
 author_profile: False
