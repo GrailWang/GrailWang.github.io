@@ -1,15 +1,5 @@
 ---
-layout: project
-permalink: /project/
-title: ""
-excerpt: ""
-author_profile: False
+layout: default
 ---
 
-# Math
-
-# NLP
-
-# LLM
-
-# AIT
+TEST-123
