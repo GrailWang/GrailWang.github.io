@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: minimal
 title: "洪水区"
 excerpt: ""
 author_profile: False
