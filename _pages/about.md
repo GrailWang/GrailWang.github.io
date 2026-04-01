@@ -28,8 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Mitacs internship AT Mcgill successfully finished!
 - *2025.11*: &nbsp;🎉🎉 Awarded Baosteel Excellent Student Honor (grade’s only recipient)!
+- *2025.10*: &nbsp;🎉🎉 Mitacs internship AT Mcgill successfully finished!
+- *2024.06*: &nbsp;🎉🎉 Received 2 summer school offer! (from CUHK-sz \& Westlake U)
 
 # 📝 Publications 
 <!--
@@ -50,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://doi.org/10.1038/s44260-024-00015-x), Fifth author, **npj Complex**
 
 # 🎖 Honors and Awards
-- Too many terms waiting to be filled.
+- Too many terms to be filled.
 - [中文前瞻！](/honor)
 
 <!--
@@ -63,9 +64,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09 - 2026.07 (now)*, Bsc in Mathematics and Applied Mathematics, Beijing Normal University. 
 
 # 💬 Invited Talks
+- *2025.04*, Applications of Ladderpath Theory in Information Compression \| [\[report\]](https://mp.weixin.qq.com/s/NqF8QeG8mCMLhZgIi7bZrw)
 - *2025.03*, Decoding the Universal Grammar of Scientific Research \| [\[report\]](https://www.gov.mo/zh-hans/news/822022/)
 - *2024.08*, Setting Sail on Your University Journey: Effective Learning Strategies and a Guide to Campus Life  \| [\[video\]](https://www.bilibili.com/video/BV1D3zbYiEwL/)
 
 # 💻 Internships
 - *2025.12 - 2026.08 (now)*, Meizhou Revitalizing Rural Public Welfare Foundation, Guangdong, China.
-- *2025.07 - 2025.10*, [Gravel Lab, Mcgill Genome Center](https://gravellab.github.io/), Canada.
+- *2025.07 - 2025.10*, [Gravel Lab](https://gravellab.github.io/),Mcgill Genome Center, Canada.
