@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Awarded Baosteel Excellent Student Honor (grade’s only recipient)!
 - *2025.10*: &nbsp;🎉🎉 Mitacs internship AT Mcgill successfully finished!
-- *2024.06*: &nbsp;🎉🎉 Received 2 summer school offer! (from CUHK-sz \& Westlake U)
+- *2024.06*: &nbsp;🎉🎉 Received 2 summer school offer! (from CUHK-sz & Westlake U)
 
 # 📝 Publications 
 <!--
