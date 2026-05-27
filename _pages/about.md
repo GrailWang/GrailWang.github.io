@@ -70,4 +70,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2025.12 - 2026.08 (now)*, Meizhou Revitalizing Rural Public Welfare Foundation, Guangdong, China.
-- *2025.07 - 2025.10*, [Gravel Lab](https://gravellab.github.io/),Mcgill Genome Center, Canada. \| [\[detail\]](/mitacs)
+- *2025.07 - 2025.10*, [Gravel Lab](https://gravellab.github.io/), Mcgill Genome Center, Canada. \| [\[detail\]](/mitacs)
