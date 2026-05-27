@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Awarded Baosteel Excellent Student Honor (grade’s only recipient)!
 - *2025.10*: &nbsp;🎉🎉 Mitacs internship AT Mcgill successfully finished!
-- *2024.06*: &nbsp;🎉🎉 Received 2 summer school offer! (from CUHK-sz & Westlake U)
+- *2024.08*: &nbsp;🎉🎉 Completed all 4 lectures in SDS summer school (cuhksz)!
 
 # 📝 Publications 
 <!--
@@ -48,11 +48,11 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 - [Ladderpath: An efficient algorithm for revealing nested hierarchy in sequences](https://doi.org/10.1016/j.array.2025.100663), First author, **Array**
-- [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://doi.org/10.1038/s44260-024-00015-x), Fifth author, **npj Complex**
+- [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://doi.org/10.1038/s44260-024-00015-x), co-author, **npj Complex**
 
 # 🎖 Honors and Awards
-- Too many terms to be filled.
-- [中文前瞻！](/honor)
+- to be filled.
+- [中文短链](/honor)
 
 <!--
   *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
