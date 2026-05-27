@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "灰溜溜的暑研"
+title: "Mcgill暑研"
 excerpt: ""
 author_profile: False
 permalink: /mitacs/
