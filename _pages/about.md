@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-感谢访问。我叫张竞文，现在是北师大（珠海）文理学院数学系的一名大四学生，中科院数学院博0。现在还在科研起步阶段，主页记录成长内容比较多，请多多指教。
+感谢访问。我叫张竞文，本科毕业于北师大（珠海）文理学院数学系，中科院数学院博0。现在还在科研起步阶段，主页记录成长内容比较多，请多多指教。
 
 本科期间尝试过比较多的东西，对于[基础数学](/math)、统计学、[自然语言处理](/nlp)、[大语言模型](/llm)、[算法信息论](/ait)、系统生物学等都通过各种渠道有一点浅薄的了解。目前，我的主要兴趣集中在生物信息学方面，希望能够探究数学模型在定量生物学研究当中的应用，建立兼备可解释性和泛化能力的计算方法。（正在恶补生物中……）
 
@@ -28,8 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Awarded Baosteel Excellent Student Honor (grade’s only recipient)!
-- *2025.10*: &nbsp;🎉🎉 Mitacs internship AT Mcgill successfully finished!
+- *2026.07*: &nbsp;🎉🎉 Visiting Westlake U
 - *2024.08*: &nbsp;🎉🎉 Completed all 4 lectures in SDS summer school (cuhksz)!
 
 # 📝 Publications 
@@ -46,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 -->
-
+- AI-Enabled Social-Media-Based Typhoon Disaster Perception: A Case Study of Typhoon Lekima， second author, **HP3C**
 - [Ladderpath: An efficient algorithm for revealing nested hierarchy in sequences](https://doi.org/10.1016/j.array.2025.100663), First author, **Array**
 - [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://doi.org/10.1038/s44260-024-00015-x), co-author, **npj Complex**
 
