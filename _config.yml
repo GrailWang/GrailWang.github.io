@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingwen Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing Normal University"
-  location         : "Zhuhai, China"
+  bio              : "AMSS, Chinese Academy of Sciences"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
