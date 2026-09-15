@@ -59,8 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📖 Educations
-- *2026.09 - 2031.07 (hopefully)*, PhD in Statistics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
-- *2022.09 - 2026.07 (now)*, Bsc in Mathematics and Applied Mathematics, Beijing Normal University. 
+- *2026.09 - (now)*, PhD in Statistics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
+- *2022.09 - 2026.06*, Bsc in Mathematics and Applied Mathematics, Beijing Normal University. 
 
 # 💬 Invited Talks
 - *2025.04*, Applications of Ladderpath Theory in Information Compression \| [\[report\]](https://mp.weixin.qq.com/s/NqF8QeG8mCMLhZgIi7bZrw)
