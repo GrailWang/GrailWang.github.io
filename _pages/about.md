@@ -68,5 +68,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.08*, Setting Sail on Your University Journey: Effective Learning Strategies and a Guide to Campus Life  \| [\[video\]](https://www.bilibili.com/video/BV1D3zbYiEwL/)
 
 # 💻 Internships
-- *2025.12 - 2026.08 (now)*, Meizhou Revitalizing Rural Public Welfare Foundation, Guangdong, China.
+- *2025.12 - 2026.08*, Meizhou Revitalizing Rural Public Welfare Foundation, Guangdong, China.
 - *2025.07 - 2025.10*, [Gravel Lab](https://gravellab.github.io/), Mcgill Genome Center, Canada. \| [\[detail\]](/mitacs)
