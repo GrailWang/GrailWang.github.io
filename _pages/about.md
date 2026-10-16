@@ -45,9 +45,11 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 -->
-- [AI-Enabled Social-Media-Based Typhoon Disaster Perception: A Case Study of Typhoon Lekima](https://dl.acm.org/doi/10.1145/3833907.3833923)， Second author, **HP3C 2026**
-- [Ladderpath: An efficient algorithm for revealing nested hierarchy in sequences](https://doi.org/10.1016/j.array.2025.100663), First author, **Array**
-- [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://doi.org/10.1038/s44260-024-00015-x), co-author, **npj Complex**
+
+- [Ladderpath: An efficient algorithm for revealing nested hierarchy in sequences](https://doi.org/10.1016/j.array.2025.100663), 1st author, **Array**
+- [AI-Enabled Social-Media-Based Typhoon Disaster Perception: A Case Study of Typhoon Lekima](https://dl.acm.org/doi/10.1145/3833907.3833923)， 2nd author, **HP3C 2026**
+- Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective, 3rd author. **Royal Society Open Science**
+- [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://doi.org/10.1038/s44260-024-00015-x), 5th author, **npj Complex**
 
 # 🎖 Honors and Awards
 - to be filled.
